@@ -1,4 +1,3 @@
-
 import tkthread; tkthread.patch()
 import threading
 import random
