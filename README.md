@@ -26,6 +26,21 @@ just don't open an issue insted search it on the internet
 <br/>  
 <br/>  
 <br/>  
+
+
+![alt text](https://github.com/Hiradpi/GUI-webhook-tool/blob/main/screanshots/check.png?raw=true)
+<br/>  
+<br/>  
+![alt text](https://github.com/Hiradpi/GUI-webhook-tool/blob/main/screanshots/Spammer.png?raw=true)
+<br/>  
+<br/>  
+![alt text](https://github.com/Hiradpi/GUI-webhook-tool/blob/main/screanshots/delete.png?raw=true)
+
+
+
+
+
+
 <br/>  
 <br/>  
 <br/>  
