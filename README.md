@@ -19,7 +19,7 @@ If you got any error like this
 
 ```ModuleNotFoundError: No module named 'lib'```
 
-just don't open an issue insted search it on the internet  
+just don't open an issue insted just look it up   
   
 
 <br/>  
