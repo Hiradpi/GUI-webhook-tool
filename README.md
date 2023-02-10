@@ -6,7 +6,7 @@
 ### <div align="center">This is a really dirty written discord webhook tool for skids</div>  
   
 
-- 🔭 As you can see in this code im not really experienced python developer   
+- 🔭 As you can see in this code im not really experienced in python coding  
   
 
 - 🍞 This is my first python project   
