@@ -5,6 +5,7 @@
 
 ### <div align="center">This is a really dirty written discord webhook tool for skids</div>  
   
+<br/>  
 
 - 🔭 As you can see in this code im not really experienced in python coding  
   
@@ -13,14 +14,14 @@
   
 
 - ❓ Do not ask for exe or release files
-  
-
+  <br/>  
+<div align="center">
 If you got any error like this 
 
 ```ModuleNotFoundError: No module named 'lib'```
 
 just don't open an issue insted just look it up   
-  
+ </div>  
 
 <br/>  
 <br/>  
@@ -30,10 +31,10 @@ just don't open an issue insted just look it up
 
 ![alt text](https://github.com/Hiradpi/GUI-webhook-tool/blob/main/screanshots/check.png?raw=true)
 <br/>  
-<br/>  
+
 ![alt text](https://github.com/Hiradpi/GUI-webhook-tool/blob/main/screanshots/Spammer.png?raw=true)
 <br/>  
-<br/>  
+
 ![alt text](https://github.com/Hiradpi/GUI-webhook-tool/blob/main/screanshots/delete.png?raw=true)
 
 
