@@ -1,3 +1,4 @@
+
 import tkthread; tkthread.patch()
 import threading
 import random
@@ -34,21 +35,50 @@ import tkinter as tk
 from tkinter import filedialog
 from tkinter.filedialog import askopenfile
 from PIL import Image, ImageTk
+from imgbb.client import Client
 import aiohttp
 from requests import post
 import asyncio
+import zipfile
+
+theme_path = 'forest-dark.zip'
+
+if os.path.exists(theme_path):
+    # file exists, do something with it
+    with open(theme_path, 'r', encoding='ISO-8859-1') as f:
+        contents = f.read()
+        
     
+    zip_file_path = 'forest-dark.zip'
+
+    with zipfile.ZipFile(zip_file_path, 'r') as zf:
+        zf.extractall(os.path.dirname(zip_file_path))
+
+else:
+    # file does not exist
+    messagebox.showerror("Error", "theme error try to download forest-dark theme")
+        
+        
+
+
+
+   
 root = Tk()
 
 
-root.tk.call('source', 'forest-dark.tcl')
 try:
     root.iconbitmap("kos.ico")
 except TclError: 
     print ('No ico file found')
 
-# Set the theme with the theme_use method
+
+
+        
+
+root.tk.call('source', 'forest-dark.tcl')
+
 ttk.Style().theme_use('forest-dark')
+
 
 root.title("Terminator Grabber")
 tabControl = ttk.Notebook(root)
