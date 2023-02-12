@@ -43,9 +43,6 @@ just don't open an issue insted just look it up
 
 
 <br/>  
-<br/>  
-<br/>  
-
 
 
 
@@ -64,5 +61,15 @@ just don't open an issue insted just look it up
                 />
             </a></div>
 <br />
+<br />
+<br />
 
+
+<div align="center">
+❤️
+<a href="https://github.com/rdbende/Forest-ttk-theme" > rdbende</a> <p>Thanks for your beautiful theme</p>
+
+
+<div align="center">
 ----
+</div>
