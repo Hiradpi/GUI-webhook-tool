@@ -1,4 +1,4 @@
-# [hog](https://github.com/Hiradpi/GUI-webhook-tool/blob/main/screanshots/disgit.png?raw=true)
+
 
 ### Discord webhook tool  
 
