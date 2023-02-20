@@ -7,7 +7,7 @@
   
 <br/>  
 
-- 🔭 As you can see in this code im not really experienced in python coding  
+- 🔭 As you can see in this code im not very experienced in python coding  
   
 
 - 🍞 This is my first python project   
@@ -20,7 +20,7 @@ If you got any error like this
 
 ```ModuleNotFoundError: No module named 'lib'```
 
-just don't open an issue insted just look it up   
+please don't open an issue insted look it up   
  </div>  
 
 <br/>  
