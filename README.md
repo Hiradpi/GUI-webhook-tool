@@ -3,7 +3,7 @@
 ### Discord webhook tool  
 
 
-### <div align="center">This is a really dirty written discord webhook tool for skids</div>  
+### <div align="center">This is a really dirty written discord webhook written in Tkinter</div>  
   
 <br/>  
 
